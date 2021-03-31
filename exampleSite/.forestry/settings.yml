@@ -7,7 +7,6 @@ sections:
 - type: document
   path: exampleSite/content/english/blog/teste77
   label: teste3
-  match: "**/*"
 - type: heading
   label: teste2
 - type: heading
