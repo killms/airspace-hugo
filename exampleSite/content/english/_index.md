@@ -7,7 +7,7 @@ banner:
   content: ''
   button:
     enable: true
-    label: Discover Our Project
+    label: Saber como
     link: project
 about:
   enable: true
