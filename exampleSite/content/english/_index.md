@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/subscribe.png"
+  bg_image: "/images/victor-freitas-houjyx2k5da-unsplash.jpg"
   bg_overlay: true
   title: Os resultados que procura com o acompanhamento ideal para si
   content: ''
