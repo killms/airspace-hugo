@@ -5,6 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: teste2
+- type: heading
   label: teste
 - type: heading
   label: Homepage
