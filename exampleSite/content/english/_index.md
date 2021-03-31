@@ -2,10 +2,9 @@
 banner:
   enable: true
   bg_image: "/images/subscribe.png"
-  bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs, or not
+  bg_overlay: false
+  title: Os resultados que procura com o acompanhamento ideal para si
+  content: ''
   button:
     enable: true
     label: Discover Our Project
