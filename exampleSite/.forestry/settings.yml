@@ -5,10 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: teste2
+  path: exampleSite/content/english
   label: teste3
   match: "**/*"
-  read_only: false
 - type: heading
   label: teste2
 - type: heading
