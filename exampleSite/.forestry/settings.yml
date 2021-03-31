@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/content/english
+  path: exampleSite/content/english/blog/teste77
   label: teste3
   match: "**/*"
 - type: heading
