@@ -5,7 +5,7 @@ banner:
   bg_overlay: true
   title: A Digital Marketing <br/> & Design Agency
   content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+    deliver  the best possible solutions for their needs, or not
   button:
     enable: true
     label: Discover Our Project
