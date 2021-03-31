@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/subscribe.png"
-  bg_overlay: false
+  bg_overlay: true
   title: Os resultados que procura com o acompanhamento ideal para si
   content: ''
   button:
