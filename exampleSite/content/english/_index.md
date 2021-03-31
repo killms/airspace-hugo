@@ -7,7 +7,7 @@ banner:
   content: ''
   button:
     enable: true
-    label: Saber como
+    label: SABER COMO
     link: project
 about:
   enable: true
